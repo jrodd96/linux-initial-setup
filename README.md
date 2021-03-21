@@ -15,9 +15,9 @@
 ##### As of now, the script works for the following distros/package managers and display managers:
 
 ###### Distros:
-..* Ubuntu (aptitude)
-..* Debian (aptitude)
-..* Pop! OS (aptitude)
+..+ Ubuntu (aptitude)
+..+ Debian (aptitude)
+..+ Pop! OS (aptitude)
 ..* Arch Linux (pacman)
 ..* Kali Linux (aptitude)
 
