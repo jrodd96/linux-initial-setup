@@ -1,0 +1,4 @@
+xfce4-cpufreq-plugin xfce4-dev-tools xfce4-diskperf-plugin xfce4-fsguard-plugin xfce4-indicator-plugin
+xfce4-netload-plugin xfce4-notes-plugin xfce4-power-manager-plugins xfce4-pulseaudio-plugin xfce4-sensors-plugin
+xfce4-sntray-plugin xfce4-statusnotifier-plugin xfce4-systemload-plugin xfce4-taskmanager xfce4-weather-plugin
+xfce4-appmenu-plugin xfce4-clipman-plugin xfce4-battery-plugin xfce4-appfinder

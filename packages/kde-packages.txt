@@ -1,0 +1,4 @@
+plasma-desktop-dev plasma-integration plasma-kdevelop plasma-sdk plasma-runners-addons plasma-workspace-wayland
+pkg-kde-tools phonon4qt5 kwin-wayland-backend-x11 kwin-wayland-backend-wayland kwin-dev kwin-addons
+ktorrent ksystemlog ksysguard kshutdown kpackagetool5 kinit-dev kdocker kdevelop kdeutils kdemultimedia
+kdenetwork kde-standard kde-config-systemd kde-plasma-desktop kde-full

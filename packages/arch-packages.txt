@@ -1,0 +1,14 @@
+yarn yay-bin wps-office wireshark-qt wireshark-cli wine wget which 
+wd719x-firmware vlc virtualbox virtualbox-guest-iso virtualbox-ext-oracle
+veracrypt urlscan ufw unrar unzip ttf-roboto ttf-ms-fonts ttf-joypixels
+ttf-hack ttf-ubuntu-font-family ttf-dejavu trash-cli tor-browser terminus-font
+sysprof snapd scala scons rust-bindgen rtlwifi_new-extended-dkms routersploit
+reaver python pwgen putty php-fpm p7zip otf-font-awesome ophcrack ntfs-3g
+nmap netsniff-ng ncrack nerd-fonts-complete nano mupdf multimon-ng metasploit
+maven mailspring llvm john jdk-openjdk jdk8-openjdk ipset htop hdparm hashcat
+hydra gparted go go-tools gcc gcc-d gcc-fortran gedit-plugins git gimp
+filezilla etcher-bin fail2ban fcrackzip findmyhash flashplugin ettercap-gtk
+docker docker-compose cython cython2 cmake cpupower colorgcc colordiff
+clonezilla chrome-gnome-shell clisp bully bison bleachbit btrfs-progs automake
+autoconf ant arp-scan arptables arpwatch atom aircrack-ng alacritty
+aic94xx-firmware appstream
