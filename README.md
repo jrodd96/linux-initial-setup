@@ -12,7 +12,7 @@ However, I still often find myself having to install development packages and ot
 * Install downloaded Debian packages directly rather than via the package manager _(work in progress)_.
 * Install downloaded AUR packages directly using Yay _(work in progress)_.
 
-##### This script is still in its early stages, and I plan on adding additional functionality and more Linux distros over time. If you would like to support me with suggestions, it would be truly appreciated.
+This script is still in its early stages, and I plan on adding additional functionality and more Linux distros over time. If you would like to support me with suggestions, it would be truly appreciated.
 
 ##### As of now, the script works for the following distros/package managers and display managers:
 
