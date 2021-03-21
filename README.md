@@ -4,7 +4,7 @@
 
 ##### Executing this process over and over again can be tedious and time-consuming. So that's where this script comes in! It is designed to:
 
-..* Determine your Linux distribution via the `/etc/os-release` file before running the appropriate update scripts.
+* Determine your Linux distribution via the `/etc/os-release` file before running the appropriate update scripts.
 ..* Read and install a list of packages from a text file using the appropriate package manager.
 ..* Ask and install optional packages for a variety of display managers (i.e. GNOME, KDE, etc.).
 ..* Install downloaded Debian packages directly rather than via the package manager _(work in progress)_.
