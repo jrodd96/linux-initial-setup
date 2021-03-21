@@ -1,6 +1,9 @@
 ## Linux Initial Setup Script
 
-##### If you're anything like me, then you may find yourself repeatedly setting up Linux virtual machines for development and/or testing new distribution releases. Most popular distros nowadays like Ubuntu and Pop! OS will automatically run updates and install some optional packages during their installation. However, I still often find myself having to install development packages and other programs that I have become accustomed to using after the installation.
+##### If you're anything like me, then you may find yourself repeatedly setting up Linux virtual machines for development and/or testing new distribution releases. 
+##### Most popular distros nowadays like Ubuntu and Pop! OS will automatically run updates and install some optional packages during their installation. 
+
+##### However, I still often find myself having to install development packages and other programs that I have become accustomed to using after the installation.
 
 ##### Executing this process over and over again can be tedious and time-consuming. So that's where this script comes in! It is designed to:
 
